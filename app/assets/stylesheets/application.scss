@@ -1,0 +1,21 @@
+@import 'bootstrap/scss/bootstrap';
+
+p {
+    font-family: Helvetica, sans-serif;
+    font-weight: 300;
+  
+  }
+  
+  a {
+    font-family: Roboto;
+    color: #337ab7;
+    font-weight: 500;
+    font-size: 30px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #14538a;
+    text-decoration: underline;
+  }
+  
